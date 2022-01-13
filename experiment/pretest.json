@@ -2,38 +2,65 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Solid Oxide Fuel Cell Converts:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mechanical to Chemical Energy",
+        "b": "Mechanical to Heat Energy",
+        "c": "Chemical to Electrical Energy",
+        "d": "Chemical to Heat Energy"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "c"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "An oxygen vacancy can be created in ZrO2 by adding:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A trivalent cation",
+        "b": "A tetravalent cation",
+        "c": "A pentavalent cation",
+        "d": "A bivalent anion"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "In a solid oxide fuel cell, the oxygen ion diffuses from:",
+      "answers": {
+        "a": "Anode to Electrolyte",
+        "b": "Anode to Cathode",
+        "c": "Cathode to Electrolyte",
+        "d": "Cathode to Anode"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "In a solid oxide fuel cell, the hydrogen ion diffuses from:",
+      "answers": {
+        "a": "Anode to Electrolyte
+
+
+",
+        "b": "Anode to Cathode",
+        "c": "Cathode to Electrolyte",
+        "d": "Cathode to Anode"
+      },
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "Total resistance of grain, grain boundary and electrode in a solid oxide fuel cell is calculated by:",
+      "answers": {
+        "a": "Ionic conductance",
+        "b": "Fitting experimental EIS data to a model",
+        "c": "Using Ohms Law",
+        "d": "Current drawn by the SOFC"
+      },
+      
+      "correctAnswer": "b"
+      
     }
   ]
 }
