@@ -38,10 +38,7 @@
     {
       "question": "In a solid oxide fuel cell, the hydrogen ion diffuses from:",
       "answers": {
-        "a": "Anode to Electrolyte
-
-
-",
+        "a": "Anode to Electrolyte",
         "b": "Anode to Cathode",
         "c": "Cathode to Electrolyte",
         "d": "Cathode to Anode"
