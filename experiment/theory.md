@@ -19,7 +19,7 @@ Arrhenius plots for the 8YSZ sample<br>
 Arrhenius plots for the 5 wt.% CeO2 doped 8YSZ sample<br>
 <img src="images/5ml.jpg"><br>
 The high ionic conductivity of 5 wt.% CeO2 doped 8 YSZ can be attributed to the reduction in average binding energy of 8YSZ by adding CeO<sub>2</sub> of lower lattice binding energy.<br><br>
-Comparison between two samples<br><br>
+<b>Comparison between two samples</b><br><br>
 This plot represents comparison between the pure Yttria stabilized Zirconia and 5 wt.% Ceria doped Yttria stabilised Zirconia, which shows that 5% Ceria doped material shows high ionic conductivity<br><br>
 <img src="images/two samp.jpg" width=500 height=400><br>
 
