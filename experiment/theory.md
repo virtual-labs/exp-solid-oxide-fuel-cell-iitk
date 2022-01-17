@@ -8,7 +8,7 @@ Ionic conductivity is the ability of a material to conduct electric current. The
 Air flows along the cathode, when an oxygen molecule contacts the cathode/electrolyte interface; it acquires four electrons from the cathode and splits into two oxygen ions.Air flows along the cathode, when an oxygen molecule contacts the cathode/electrolyte interface; it acquires four electrons from the cathode and splits into two oxygen ions. These oxygen ions diffuse into the electrolyte material and migrate to the other side of the cell where they encounter the anode/electrolyte interface. Here they react, giving off water, carbon dioxide and heat. The electrons go through the anode to the external circuit and return to the cathode , thereby producing electrical electrochemical device that converts the chemical energy in oxygen and hydrogen to react.Here they react, giving off water, carbon dioxide and heat. The electrons go through the anode to the external circuit and return to the cathode , thereby producing electrical electrochemical device that converts the chemical energy in oxygen and hydrogen to react.<br><br>
 <b>Crystal structure of 8 mol %Yttria stabilized Zirconia (electrolyte material)</b><br><br>
 <img src="images/fluorite structure.jpg"><br><br>
-<b>Fuel Cell Test Station Setup</b><br>
+<b>Fuel Cell Test Station Setup</b><br><br>
 <img src="images/fuel cell.jpg"><br><br>
 <b>Schematic of sample holder used for ionic conductivity measurements</b><br><br>
 <img src="images/ionic conductivity measurement.jpg"><br><br>
@@ -18,6 +18,8 @@ Arrhenius plots for the 8YSZ sample<br>
 <img src="images/8YSZ SAMPLE.jpg"><br><br>
 Arrhenius plots for the 5 wt.% CeO2 doped 8YSZ sample<br>
 <img src="images/5ml.jpg"><br>
-The high ionic conductivity of 5 wt.% CeO2 doped 8 YSZ can be attributed to the reduction in average binding energy of 8YSZ by adding CeO<sub>2</sub> of lower lattice binding energy.<br>
-<img src="images/two samp.jpg"><br>
+The high ionic conductivity of 5 wt.% CeO2 doped 8 YSZ can be attributed to the reduction in average binding energy of 8YSZ by adding CeO<sub>2</sub> of lower lattice binding energy.<br><br>
+Comparison between two samples<br><br>
+This plot represents comparison between the pure Yttria stabilized Zirconia and 5 wt.% Ceria doped Yttria stabilised Zirconia, which shows that 5% Ceria doped material shows high ionic conductivity<br><br>
+<img src="images/two samp.jpg" width=500 height=400><br>
 
