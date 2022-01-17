@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In the Nyquist plot, a pure resistor (of resistance R) will appear as a",
+      "question": "1. In the Nyquist plot, a pure resistor (of resistance R) will appear as a",
       "answers": {
         "a": "Line above R from x-axis",
         "b": "Point at R on x-axis",
@@ -12,7 +12,7 @@
       "correctAnswer": "a"
     },
     {
-      "question": "In the Nyquist plot, a pure capacitor will appear as a:",
+      "question": "2. In the Nyquist plot, a pure capacitor will appear as a:",
       "answers": {
         "a": "Point at R on x-axis",
         "b": "Line above R in y-axis",
@@ -24,7 +24,7 @@
       
     },
     {
-      "question": "In the Bode plot, a pure resistor (or resistance R) will appear as a:",
+      "question": "3. In the Bode plot, a pure resistor (or resistance R) will appear as a:",
       "answers": {
         "a": "Point at Resistance R",
         "b": "Line of slope zero",
@@ -36,7 +36,7 @@
       
     },
     {
-      "question": "In the Bode plot, a pure capacitor (or Capacitance C) will appear as a:",
+      "question": "4. In the Bode plot, a pure capacitor (or Capacitance C) will appear as a:",
       "answers": {
         "a": "Point at Resistance R",
         "b": "Line of slope zero",
@@ -48,7 +48,7 @@
       
     },
     {
-      "question": "Solid Oxide Fuel Cell essentially requires:",
+      "question": "5. Solid Oxide Fuel Cell essentially requires:",
       "answers": {
         "a": "Porous ionic conducting electrolyte",
         "b": "Porous electronic conducting electrolyte",

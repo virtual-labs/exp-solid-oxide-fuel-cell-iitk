@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Solid Oxide Fuel Cell Converts:",
+      "question": "1. Solid Oxide Fuel Cell Converts:",
       "answers": {
         "a": "Mechanical to Chemical Energy",
         "b": "Mechanical to Heat Energy",
@@ -12,7 +12,7 @@
       "correctAnswer": "c"
     },
     {
-      "question": "An oxygen vacancy can be created in ZrO2 by adding:",
+      "question": "2. An oxygen vacancy can be created in ZrO2 by adding:",
       "answers": {
         "a": "A trivalent cation",
         "b": "A tetravalent cation",
@@ -24,7 +24,7 @@
       
     },
     {
-      "question": "In a solid oxide fuel cell, the oxygen ion diffuses from:",
+      "question": "3. In a solid oxide fuel cell, the oxygen ion diffuses from:",
       "answers": {
         "a": "Anode to Electrolyte",
         "b": "Anode to Cathode",
@@ -36,7 +36,7 @@
       
     },
     {
-      "question": "In a solid oxide fuel cell, the hydrogen ion diffuses from:",
+      "question": "4. In a solid oxide fuel cell, the hydrogen ion diffuses from:",
       "answers": {
         "a": "Anode to Electrolyte",
         "b": "Anode to Cathode",
@@ -48,7 +48,7 @@
       
     },
     {
-      "question": "Total resistance of grain, grain boundary and electrode in a solid oxide fuel cell is calculated by:",
+      "question": "5. Total resistance of grain, grain boundary and electrode in a solid oxide fuel cell is calculated by:",
       "answers": {
         "a": "Ionic conductance",
         "b": "Fitting experimental EIS data to a model",
