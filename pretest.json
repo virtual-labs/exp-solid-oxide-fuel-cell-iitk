@@ -1,0 +1,63 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Solid Oxide Fuel Cell Converts:",
+      "answers": {
+        "a": "Mechanical to Chemical Energy",
+        "b": "Mechanical to Heat Energy",
+        "c": "Chemical to Electrical Energy",
+        "d": "Chemical to Heat Energy"
+      },
+      "correctAnswer": "c"
+    },
+    {
+      "question": "2. An oxygen vacancy can be created in ZrO2 by adding:",
+      "answers": {
+        "a": "A trivalent cation",
+        "b": "A tetravalent cation",
+        "c": "A pentavalent cation",
+        "d": "A bivalent anion"
+      },
+      
+      "correctAnswer": "a"
+      
+    },
+    {
+      "question": "3. In a solid oxide fuel cell, the oxygen ion diffuses from:",
+      "answers": {
+        "a": "Anode to Electrolyte",
+        "b": "Anode to Cathode",
+        "c": "Cathode to Electrolyte",
+        "d": "Cathode to Anode"
+      },
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "4. In a solid oxide fuel cell, the hydrogen ion diffuses from:",
+      "answers": {
+        "a": "Anode to Electrolyte",
+        "b": "Anode to Cathode",
+        "c": "Cathode to Electrolyte",
+        "d": "Cathode to Anode"
+      },
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "5. Total resistance of grain, grain boundary and electrode in a solid oxide fuel cell is calculated by:",
+      "answers": {
+        "a": "Ionic conductance",
+        "b": "Fitting experimental EIS data to a model",
+        "c": "Using Ohms Law",
+        "d": "Current drawn by the SOFC"
+      },
+      
+      "correctAnswer": "b"
+      
+    }
+  ]
+}

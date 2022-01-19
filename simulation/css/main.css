@@ -1,0 +1,31 @@
+h1{
+color:green;
+  font-family: verdana;
+}
+h2{
+color:blue;
+font-family: verdana;
+}
+a{
+font-family: courier;}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+a:link, a:visited {
+  background-color: #028A0F;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #5DBB63;
+}
+
