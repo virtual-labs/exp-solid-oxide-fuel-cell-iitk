@@ -2,38 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. In the Nyquist plot, a pure resistor (of resistance R) will appear as a",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Line above R from x-axis",
+        "b": "Point at R on x-axis",
+        "c": "Line above R from y-axis",
+        "d": "Curve of Radius R"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. In the Nyquist plot, a pure capacitor will appear as a:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Point at R on x-axis",
+        "b": "Line above R in y-axis",
+        "c": "Line above R in x-axis",
+        "d": "Point at R on y-axis"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "3. In the Bode plot, a pure resistor (or resistance R) will appear as a:",
+      "answers": {
+        "a": "Point at Resistance R",
+        "b": "Line of slope zero",
+        "c": "Curve of radius R",
+        "d": "Surface with center at R"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "4. In the Bode plot, a pure capacitor (or Capacitance C) will appear as a:",
+      "answers": {
+        "a": "Point at Resistance R",
+        "b": "Line of slope zero",
+        "c": "Line of slope +1",
+        "d": "Line of slope -1"
+      },
+      
+      "correctAnswer": "d"
+      
+    },
+    {
+      "question": "5. Solid Oxide Fuel Cell essentially requires:",
+      "answers": {
+        "a": "Porous ionic conducting electrolyte",
+        "b": "Porous electronic conducting electrolyte",
+        "c": "Dense ionic conducting electrolyte",
+        "d": "Dense electronic conducting electrolyte"
+      },
+      
+      "correctAnswer": "c"
+      
     }
   ]
 }
